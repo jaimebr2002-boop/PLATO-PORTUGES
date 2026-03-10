@@ -1,0 +1,5 @@
+{
+  "name": "Plato Portugués - Restaurante Gastronómico",
+  "description": "Auténtica comida portuguesa en Malpartida de Cáceres. Especialistas en bacalao, arroces de marisco y carnes a la piedra. Reserva tu mesa por WhatsApp.",
+  "requestFramePermissions": ["geolocation"]
+}
